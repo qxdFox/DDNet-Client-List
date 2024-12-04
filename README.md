@@ -18,6 +18,11 @@ Aiodob Client is a client that is supposed to be a *whacky* open source version 
 It has features *copied* from T-client and chillerbot to sort of make a public version of cactus.
 its main features are the same as T-Clients and Chillerbots, but also features like Freeze kill or Auto Kill, which kills the player if an enemy is sitting ontop of you while you are frozen
 
+### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
+
+DDNet-super mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017)
+Mario is fully playable, even though a bit hard to control in 2d since it was a 3d game, it also adds soundtracks from sm64
+
 ### [StA](https://github.com/StormAxs/StA-Main)
 
 StA is a Client *supported* by [StormAx](https://github.com/StormAxs), meloƞ and Mʎɹ. It's source code is on [StormAxs](https://github.com/StormAxs) Github
