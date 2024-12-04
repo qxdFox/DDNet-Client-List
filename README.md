@@ -18,6 +18,22 @@ Aiodob Client is a client that is supposed to be a *whacky* open source version 
 It has features *copied* from T-client and chillerbot to sort of make a public version of cactus.
 its main features are the same as T-Clients and Chillerbots, but also features like Freeze kill or Auto Kill, which kills the player if an enemy is sitting ontop of you while you are frozen
 
+### [StA](https://github.com/StormAxs/StA-Main)
+
+StA is a Client *supported* by [StormAx](https://github.com/StormAxs), meloƞ and Mʎɹ. It's source code is on [StormAxs](https://github.com/StormAxs) Github
+StA feautures Console Visual Customization, Tablist Customization, PlayerAssets (T-Client), a *different* version of Bindwheel and some more stuff.
+
+### [Duck-DDNet](https://github.com/Ar1gin/duck-ddnet)
+
+Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
+It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade and Laser Prediction
+
+### S-Client
+
+S-Client is a Client all about Customization made by [Sedonya](https://github.com/Sedonya/) and also is Closed-Source for some unknown Reason.
+it adds a very simple type of war/team list using the Friend/Foe system that already is in the Client.
+it has a bunch of customization options for the chat, tab and other stuff.
+
 ### [Cactus Client](https://cactuss.me/)
 
 Cactus is a closed-source client for who knows what reason made by a russian developer
