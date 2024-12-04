@@ -28,7 +28,7 @@ StA feautures Console Visual Customization, Tablist Customization, PlayerAssets 
 Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
 It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade and Laser Prediction
 
-### S-Client
+### [S-Client](https://ddnet.ru/)
 
 S-Client is a Client all about Customization made by [Sedonya](https://github.com/Sedonya/) and also is Closed-Source for some unknown Reason.
 it adds a very simple type of war/team list using the Friend/Foe system that already is in the Client.
