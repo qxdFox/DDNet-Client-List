@@ -45,7 +45,3 @@ Since it's closed source I personally do not recommend downloading it.
 AllTheHax is an old DDNet client that is no longer in Development
 It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bnuch more
 The Client might be considered cheating, use it at your own risk
-
-### KRX-Client
-
-Straight up Cheat Client, do not download it, it contains malware.
