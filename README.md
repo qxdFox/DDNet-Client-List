@@ -38,6 +38,7 @@
 - S-Client is a Client all about Customization made by [Sedonya](https://github.com/Sedonya/) and also is Closed-Source for some unknown Reason.
 - it adds a very simple type of war/team list using the Friend/Foe system that already is in the Client.
 - it has a bunch of customization options for the chat, tab and other stuff.
+- Since it's closed source I personally do not recommend downloading it.
 
 ### [Cactus Client](https://cactuss.me/)
 
@@ -48,5 +49,5 @@
 ### [AllTheHax](https://allthehaxx.github.io/)
 
 - AllTheHax is an old DDNet client that is no longer in Development.
-- It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bnuch more.
+- It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bunch more.
 - The Client might be considered cheating, use it at your own risk.
