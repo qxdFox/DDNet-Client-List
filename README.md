@@ -8,8 +8,8 @@
 
 ### [Chillerbot-ux](https://github.com/chillerbot/chillerbot-ux)
 
-- Chillerbot-ux is one if not the first client to feature ChatCommands and a Warlist made by [chillerbot](https://github.com/chillerbot)
-- Chillerbot has alot of features that either dont fit in a client like DDNet.
+- Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [chillerbot](https://github.com/chillerbot)
+- Chillerbot has alot of features that dont fit in a client like DDNet.
 - It's main feature is the Warlist but it also features features like auto reply, tabbed out reply, skin stealer and more.
 
 ### [A-Client](https://github.com/qxdFox/Aiodob-Client-DDNet)
