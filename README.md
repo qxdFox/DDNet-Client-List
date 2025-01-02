@@ -10,7 +10,7 @@
 
 - Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [chillerbot](https://github.com/chillerbot)
 - Chillerbot has alot of features that dont fit in a client like DDNet.
-- It's main feature is the Warlist but it also features features like auto reply, tabbed out reply, skin stealer and more.
+- It's main feature is the Warlist but it also has features like auto reply, tabbed out reply, skin stealer and more.
 
 ### [A-Client](https://github.com/qxdFox/Aiodob-Client-DDNet)
 
@@ -36,7 +36,7 @@
 ### [S-Client](https://ddnet.ru/)
 
 - S-Client is a Client all about Customization made by [Sedonya](https://github.com/Sedonya/) and also is Closed-Source for some unknown Reason.
-- it adds a very simple type of war/team list using the Friend/Foe system that already is in the Client.
+- it adds a very simple type of war/team list using the Friend/Foe system that already exists in the DDNet Client.
 - it has a bunch of customization options for the chat, tab and other stuff.
 - Since it's closed source I personally do not recommend downloading it.
 
