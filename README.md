@@ -25,7 +25,7 @@
 
 ### [StA](https://github.com/StormAxs/StA-Main)
 
-- StA is a Client *supported* by [StormAx](https://github.com/StormAxs), meloƞ and Mʎɹ. It's source code is on [StormAxs](https://github.com/StormAxs) Github.
+- StA is a Client made by [StormAx](https://github.com/StormAxs), and been supported by melon. It's source code is on [StormAxs](https://github.com/StormAxs) Github.
 - StA feautures Console Visual Customization, Tablist Customization, PlayerAssets (T-Client), a *different* version of Bindwheel and some more stuff.
 
 ### [Duck-DDNet](https://github.com/Ar1gin/duck-ddnet)
