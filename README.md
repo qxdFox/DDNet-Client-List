@@ -35,10 +35,10 @@
 
 ### [S-Client](https://ddnet.ru/)
 
-- S-Client is a Client all about Customization made by [Sedonya](https://github.com/Sedonya/) and also is Closed-Source for some unknown Reason.
-- it adds a very simple type of war/team list using the Friend/Foe system that already exists in the DDNet Client.
-- it has a bunch of customization options for the chat, tab and other stuff.
-- Since it's closed source I personally do not recommend downloading it.
+- S-Client is a remarkable client focused on customization, created by [Sedonya](https://github.com/Sedonya/).
+- It introduces a straightforward and effective wars list using the Friend/Foe system.
+- It offers a multitude of customization options for chat, tab, and more.
+- Despite being closed-source, its exceptional features make it a top choice.
 
 ### [Cactus Client](https://cactuss.me/)
 
