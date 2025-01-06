@@ -42,7 +42,7 @@
 
 ### [Cactus Client](https://cactuss.me/)
 
-- Cactus is a closed-source client for who knows what reason made by a russian developer.
+- Cactus is a closed-source client for who knows what reason made by a Ukrainian developer.
 - It reworks the Warlist originally by Chillerbot and adds a bunch of new features like freeze kill.
 - Since it's closed source I personally do not recommend downloading it.
 
