@@ -2,9 +2,9 @@
 
 ### [T-Client](https://github.com/sjrc6/TaterClient-ddnet)
 
-- Tater Client is a Client originally made by [sjrc6](https://github.com/sjrc6/).
-- The Client exists because Tater wanted some features that DDNet Devs did not intend on adding.
-- It has a bunch of usefull features like a bindwheel, Outlines for Tiles, Player indicators and more.
+- Tater Client is a Client originally made by [Tater](https://github.com/sjrc6/).
+- The Client exists because KoG did not update their servers for several months and Tater wanted cl_prediction_margin to work, over time it grew in features.
+- It has a bunch of useful features like a bindwheel, Outlines for Tiles, Player indicators and more.
 
 ### [Chillerbot-ux](https://github.com/chillerbot/chillerbot-ux)
 
