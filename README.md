@@ -1,6 +1,6 @@
 # DDNet-Client-List
 
-### [T-Client](https://github.com/sjrc6/TaterClient-ddnet)
+### [T-Client](https://github.com/sjrc6/TaterClient-ddnet) - Edited by T-Client Owner
 
 - Tater Client is a Client originally made by [Tater](https://github.com/sjrc6/).
 - The Client exists because KoG did not update their servers for several months and Tater wanted cl_prediction_margin to work, over time it grew in features.
@@ -10,13 +10,13 @@
 
 - Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [chillerbot](https://github.com/chillerbot)
 - Chillerbot has alot of features that dont fit in a client like DDNet.
-- It's main feature is the Warlist but it also has features like auto reply, tabbed out reply, skin stealer and more.
+- It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and.
 
 ### [A-Client](https://github.com/qxdFox/Aiodob-Client-DDNet)
 
 - Aiodob Client is a client that is supposed to be a *whacky* open source version of cactus client made by [qxdFox](https://github.com/qxdFox/)
 - It has features *copied* from T-client and chillerbot to sort of make a public version of cactus.
-- its main features are the same as T-Clients and Chillerbots, but also features like Freeze kill or Auto Kill, which kills the player if an enemy is sitting ontop of you while you are frozen.
+- its main features are the same as T-Clients and Chillerbots, but also features like Freeze kill or Auto Kill.
 
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
 
@@ -33,14 +33,14 @@
 - Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
 - It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade and Laser Prediction
 
-### [S-Client](https://ddnet.ru/)
+### [S-Client](https://ddnet.ru/) - Edited by S-Client Owner
 
 - S-Client is a remarkable client focused on customization, created by [Sedonya](https://github.com/Sedonya/).
 - It introduces a straightforward and effective wars list using the Friend/Foe system.
 - It offers a multitude of customization options for chat, tab, and more.
 - Despite being closed-source, its exceptional features make it a top choice.
 
-### [Cactus Client](https://cactuss.me/)
+### [Cactus Client](https://cactuss.me/) - Edited by Cactus Client Owner
 
 - Cactus is a closed-source client for who knows what reason made by a Ukrainian developer.
 - It reworks the Warlist originally by Chillerbot and adds a bunch of new features like freeze kill.
