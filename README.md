@@ -42,9 +42,10 @@
 
 ### [Cactus Client](https://cactuss.me/) - Edited by Cactus Client Owner
 
-- Cactus is a closed-source client for who knows what reason made by a Ukrainian developer.
-- It reworks the Warlist originally by Chillerbot and adds a bunch of new features like freeze kill.
-- Since it's closed source I personally do not recommend downloading it.
+- Cactus is a closed-source client originally made by [Денчик](https://github.com/handerfall) to implement a chat-command-based Warlist system. 
+- The client introduces a variety of features to enhance gameplay, including tee trail, smooth animations, freeze kill and support for custom fonts.
+- Comes with T-Client features built-in and mostly used among blockers because of the easy Warlist command system.
+- Because it's closed source, the development process lacks transparency, which can be a cause of distrust for some people. Despite that, still being used by thousands of players.
 
 ### [AllTheHax](https://allthehaxx.github.io/)
 
