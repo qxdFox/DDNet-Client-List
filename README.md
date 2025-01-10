@@ -1,6 +1,6 @@
 # DDNet-Client-List
 
-### [T-Client](https://github.com/sjrc6/TaterClient-ddnet) - Edited by T-Client Owner
+### [T-Client](https://github.com/sjrc6/TaterClient-ddnet) - Edited by Tater
 
 - Tater Client is a Client originally made by [Tater](https://github.com/sjrc6/).
 - The Client exists because KoG did not update their servers for several months and Tater wanted cl_prediction_margin to work, over time it grew in features.
@@ -23,7 +23,7 @@
 - DDNet-super mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
 - Mario is fully playable, even though a bit hard to control in 2d since it was a 3d game, it also adds soundtracks from sm64.
 
-### [StA](https://github.com/StormAxs/StA-Main) - Edited by StA-Main Owner
+### [StA](https://github.com/StormAxs/StA-Main) - Edited by StormAxs
 
 - StA is a Client made by [StormAx](https://github.com/StormAxs), and been supported by melon. It's source code is on [StormAxs](https://github.com/StormAxs) Github.
 - StA feautures Console Visual Customization, Tablist Customization, PlayerAssets (T-Client), a *different* version of Bindwheel and some more stuff.
@@ -33,14 +33,14 @@
 - Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
 - It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade and Laser Prediction
 
-### [S-Client](https://ddnet.ru/) - Edited by S-Client Owner
+### [S-Client](https://ddnet.ru/) - Edited by Sedonya
 
 - S-Client is a remarkable client focused on customization, created by [Sedonya](https://github.com/Sedonya/).
 - It introduces a straightforward and effective wars list using the Friend/Foe system.
 - It offers a multitude of customization options for chat, tab, and more.
 - Despite being closed-source, its exceptional features make it a top choice.
 
-### [Cactus Client](https://cactuss.me/) - Edited by Cactus Client Owner
+### [Cactus Client](https://cactuss.me/) - Edited by Денчик
 
 - Cactus is a closed-source client originally made by [Денчик](https://github.com/handerfall) to implement a chat-command-based Warlist system. 
 - The client introduces a variety of features to enhance gameplay, including tee trail, smooth animations, freeze kill and support for custom fonts.
