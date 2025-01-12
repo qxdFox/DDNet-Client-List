@@ -23,7 +23,7 @@
 - DDNet-super mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
 - Mario is fully playable, even though a bit hard to control in 2d since it was a 3d game, it also adds soundtracks from sm64.
 
-### [StA](https://github.com/StormAxs/StA-Main) - Edited by StormAxs
+### [StA](https://github.com/StormAxs/StA-Main) - Edited by StormAx
 
 - StA is a Client made by [StormAx](https://github.com/StormAxs), and been supported by melon. It's source code is on [StormAxs](https://github.com/StormAxs) Github.
 - StA feautures Console Visual Customization, Tablist Customization, PlayerAssets (T-Client), a *different* version of Bindwheel and some more stuff.
