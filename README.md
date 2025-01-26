@@ -20,8 +20,8 @@
 
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
 
-- DDNet-super mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
-- Mario is fully playable, even though a bit hard to control in 2d since it was a 3d game, it also adds soundtracks from sm64.
+- DDNet-Super Mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
+- Mario is fully playable, even though it's bit hard to control in 2d since. The Client also features Soundtracks from SM64.
 
 ### [StA](https://github.com/StormAxs/StA-Main) - Edited by StormAx
 
