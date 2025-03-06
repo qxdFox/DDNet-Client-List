@@ -12,6 +12,10 @@
 - Chillerbot has alot of features that dont fit in a client like DDNet.
 - It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and.
 
+### [InfClass-Client](https://github.com/infclass/infclass-client)
+- Special Client that's made for the InfClass Gamemode.
+- It has it's own prediction for their gamemode and also uses their own assets (e.g. Custom HUD, Custom skin, etc)
+
 ### [A-Client](https://github.com/qxdFox/Aiodob-Client-DDNet)
 
 - Aiodob Client is a client that is supposed to be a *whacky* open source version of cactus client made by [qxdFox](https://github.com/qxdFox/)
