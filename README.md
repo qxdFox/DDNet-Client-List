@@ -16,7 +16,7 @@
 - Special Client that's made for the InfClass Gamemode.
 - It has it's own prediction for their gamemode and also uses their own assets (e.g. Custom HUD, Custom skin, etc)
 
-### [A-Client](https://github.com/qxdFox/Aiodob-Client-DDNet)
+### [E-Client](https://github.com/qxdFox/Entity-Client)
 
 - Aiodob Client is a client that is supposed to be a *whacky* open source version of cactus client made by [qxdFox](https://github.com/qxdFox/)
 - It has features *copied* from T-client and chillerbot to sort of make a public version of cactus.
