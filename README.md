@@ -10,7 +10,7 @@
 
 - Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [chillerbot](https://github.com/chillerbot)
 - Chillerbot has alot of features that dont fit in a client like DDNet.
-- It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and.
+- It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and Spike Tracer.
 
 ### [InfClass-Client](https://github.com/infclass/infclass-client)
 - Special Client that's made for the InfClass Gamemode.
