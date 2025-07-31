@@ -21,7 +21,7 @@
 - Entity Client is a client that is a combination of a few clients [qxdFox](https://github.com/qxdFox/)
 - It used to be a Chillerbot-ux and TClient combo but has received a few original features
 - The Main Feauters are the Warlist, Chatcommands, chatbubbles and cosmetics but theres alot more.
-
+- 
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
 
 - DDNet-Super Mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
@@ -50,6 +50,12 @@
 - The client introduces a variety of features to enhance gameplay, including tee trail, smooth animations, freeze kill and support for custom fonts.
 - Comes with T-Client features built-in and mostly used among blockers because of the easy Warlist command system.
 - Because it's closed source, the development process lacks transparency, which can be a cause of distrust for some people. Despite that, still being used by thousands of players.
+
+### [FeX](https://github.com/faffa81/FeX-V2-Client)
+
+- FeX is a Client developed by [Faffa81](https://github.com/faffa81)
+- It has feautures from TClient and other clients
+- Original features are a 1v1 system, Quick Actions and Warlist Infos like the friend info in the server browser
 
 ### [AllTheHax](https://allthehaxx.github.io/)
 
