@@ -18,9 +18,9 @@
 
 ### [E-Client](https://github.com/qxdFox/Entity-Client)
 
-- Aiodob Client is a client that is supposed to be a *whacky* open source version of cactus client made by [qxdFox](https://github.com/qxdFox/)
-- It has features *copied* from T-client and chillerbot to sort of make a public version of cactus.
-- its main features are the same as T-Clients and Chillerbots, but also features like Freeze kill or Auto Kill.
+- Entity Client is a client that is a combination of a few clients [qxdFox](https://github.com/qxdFox/)
+- It used to be a Chillerbot-ux and TClient combo but has received a few original features
+- The Main Feauters are the Warlist, Chatcommands, chatbubbles and cosmetics but theres alot more.
 
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
 
