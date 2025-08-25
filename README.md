@@ -21,7 +21,7 @@
 - Entity Client is a client that is a combination of a few clients [qxdFox](https://github.com/qxdFox/)
 - It used to be a Chillerbot-ux and TClient combo but has received a few original features
 - The Main Feauters are the Warlist, Chatcommands, chatbubbles and cosmetics but theres alot more.
-- 
+
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
 
 - DDNet-Super Mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
