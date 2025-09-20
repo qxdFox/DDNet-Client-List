@@ -64,3 +64,10 @@
 - It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bunch more.
 > [!CAUTION]
 > The use of this Client might be considered cheating, use it at your own risk.
+
+### [RushieClient](https://github.com/RushieClient/RushieClient-ddnet) - Edited by Voix
+
+- RushieClient is a DDNet client created by [Voix](https://github.com/1Voix1).  
+- The client is a fork of **Tater Client** and incorporates features from many other clients.  
+- Key features include player tracking via commands, chat censorship, custom flags, extended HUD customization, convenient hotkeys, and other visual improvements.  
+
