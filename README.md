@@ -6,6 +6,17 @@
 - The Client exists because KoG did not update their servers for several months and Tater wanted cl_prediction_margin to work, over time it grew in features.
 - It has a bunch of useful features like a bindwheel, Outlines for Tiles, Player indicators and more.
 
+### [E-Client](https://github.com/qxdFox/Entity-Client)
+
+- Entity Client is a client made by [qxdFox](https://github.com/qxdFox/) that is a combination of a few clients.
+- It used to be a Chillerbot-ux and T-Client combo but has received a few original features.
+- The main features are the Warlist, Chatcommands, Chatbubbles, quickactions and Cosmetics but there's a lot more.
+
+### [R-Client](https://github.com/RushieClient/RushieClient-ddnet)
+
+- Rushie Client, made by [Voix](https://github.com/1Voix1), has a bunch of features from multiple client plus some original ones
+- It has all features from TClient and some others like: Tracker, Nameplate editor, Bindwheel in spec, EdgeInfo and more
+
 ### [Chillerbot-ux](https://github.com/chillerbot/chillerbot-ux)
 
 - Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [chillerbot](https://github.com/chillerbot)
@@ -15,12 +26,6 @@
 ### [InfClass-Client](https://github.com/infclass/infclass-client)
 - Special Client that's made for the InfClass Gamemode.
 - It has it's own prediction for their gamemode and also uses their own assets (e.g. Custom HUD, Custom skin, etc)
-
-### [E-Client](https://github.com/qxdFox/Entity-Client)
-
-- Entity Client is a client made by [qxdFox](https://github.com/qxdFox/) that is a combination of a few clients.
-- It used to be a Chillerbot-ux and T-Client combo but has received a few original features.
-- The main features are the Warlist, Chatcommands, chatbubbles and cosmetics but there's a lot more.
 
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
 
