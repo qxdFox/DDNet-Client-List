@@ -40,7 +40,7 @@
 ### [Duck-DDNet](https://github.com/Ar1gin/duck-ddnet)
 
 - Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
-- It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade and Laser Prediction
+- It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade/Laser Path Prediction (Prediction Might be considered cheating)
 
 ### [S-Client](https://ddnet.ru/) - Edited by Sedonya
 
