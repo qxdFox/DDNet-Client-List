@@ -23,7 +23,7 @@
 - Chillerbot has a lot of features that dont fit in a client like DDNet.
 - It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and Spike Tracer.
 
-### [BestClient](https://bestclient.fun)
+### [BestClient](https://bestclient.fun) - Added by [Noxy](https://github.com/noxygalaxy)
 - BestClient is a client made by [RoflikBEST](https://github.com/RoflikBEST), [Noxy](https://github.com/noxygalaxy) & [sqwinixxx](https://github.com/sqwinixxx) with the goal of making it the best client.
 - This client is a fork of [TClient](https://github.com/TaterClient/TClient), which makes it even better!
 - BEST features of client are: Assets Editor, Media in Chat, Voice Chat, Components Editor & Fast Practice
