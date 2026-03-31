@@ -23,6 +23,12 @@
 - Chillerbot has a lot of features that dont fit in a client like DDNet.
 - It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and Spike Tracer.
 
+### [BestClient](https://bestclient.fun)
+- BestClient is a client made by [RoflikBEST](https://github.com/RoflikBEST), [Noxy](https://github.com/noxygalaxy) & [sqwinixxx](https://github.com/sqwinixxx) with the goal of making it the best client.
+- This client is a fork of [TClient](https://github.com/TaterClient/TClient), which makes it even better!
+- BEST features of client are: Assets Editor, Media in Chat, Voice Chat, Components Editor & Fast Practice
+- At first, this client was closed source, but it is now open source.
+
 ### [InfClass-Client](https://github.com/infclass/infclass-client)
 - Special Client that's made for the InfClass Gamemode.
 - It has it's own prediction for their gamemode and also uses their own assets (e.g. Custom HUD, Custom skin, etc)
