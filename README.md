@@ -48,12 +48,10 @@
 - Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
 - It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade/Laser Path Prediction (Prediction Might be considered cheating)
 
-### [S-Client](https://ddnet.ru/) - Edited by Sedonya
+### [S-Client](https://s-client.ru/) - Edited by Sedonya
 
-- S-Client is a remarkable client focused on customization created by [Sedonya](https://github.com/Sedonya/).
-- It introduces a straightforward and effective wars list using the Friend/Foe system.
-- It offers a multitude of customization options for chat, tab, and more.
-- Despite being closed-source, its exceptional features make it a top choice.
+- Just a good client.
+- Currently in development with an unknown release date, created by [Sedonya](https://github.com/Sedonya/).
 
 ### [Cactus Client](https://cactuss.top) - Edited by Денчик
 
