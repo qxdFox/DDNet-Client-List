@@ -19,15 +19,26 @@
 
 ### [Chillerbot-ux](https://github.com/chillerbot/chillerbot-ux)
 
-- Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [chillerbot](https://github.com/chillerbot)
+- Chillerbot-ux is one of, if not the first client to feature Chat Commands and a Warlist made by [ChillerDragon](https://github.com/ChillerDragon)
 - Chillerbot has a lot of features that dont fit in a client like DDNet.
 - It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and Spike Tracer.
+
+### [Kaizo Client](https://github.com/M0REKZ/kaizo-client) - Added by +KZ
+- Previously named "Kaizo Network Client", it's a client made by [+KZ](https://github.com/M0REKZ).
+- Very first versions of the client were just used as map editor for Kaizo Network maps, later it was improved to have better prediction and features for Kaizo Network based servers.
+- After Kaizo Network discontinuation, it was renamed to "Kaizo Client".
+- Today it is able to predict most Kaizo Network physics, being developed as a independent client implementing its own features like experimental Moving Tiles prediction, Faster map downloading, identify other Kaizo Client users, among others...
+> [!IMPORTANT]
+> Kaizo Client original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
+
 
 ### [BestClient](https://bestclient.fun) - Added by [Noxy](https://github.com/noxygalaxy)
 - BestClient is a client made by [RoflikBEST](https://github.com/RoflikBEST), [Noxy](https://github.com/noxygalaxy) & [sqwinixxx](https://github.com/sqwinixxx) with the goal of making it the best client.
 - This client is a fork of [TClient](https://github.com/TaterClient/TClient), which makes it even better!
 - BEST features of client are: Assets Editor, Media in Chat, Voice Chat, Components Editor & Fast Practice
 - At first, this client was closed source, but it is now open source.
+> [!IMPORTANT]
+> BestClient original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
 
 ### [InfClass-Client](https://github.com/infclass/infclass-client)
 - Special Client that's made for the InfClass Gamemode.
@@ -67,9 +78,9 @@
 - It has feautures from T-Client and other clients
 - Original features are a 1v1 system, Quick Actions and Warlist Infos like the friend info in the server browser
 
-### [AllTheHax](https://allthehaxx.github.io/)
+### [AllTheHaxx](https://allthehaxx.github.io/)
 
-- AllTheHax is an old DDNet client that is no longer in Development.
+- AllTheHaxx is an old DDNet client that is no longer in Development.
 - It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bunch more.
 > [!CAUTION]
 > The use of this Client might be considered cheating, use it at your own risk.
