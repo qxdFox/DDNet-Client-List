@@ -54,11 +54,6 @@
 - StA is a Client made by [StormAx](https://github.com/StormAxs), and been supported by melon. It's source code is on [StormAxs](https://github.com/StormAxs) Github.
 - StA features Console Visual Customization, Tablist Customization, PlayerAssets (T-Client), a *different* version of Bindwheel and some more stuff.
 
-### [Duck-DDNet](https://github.com/Ar1gin/duck-ddnet)
-
-- Duck-ddnet is a client by [Ar1gin](https://github.com/Ar1gin).
-- It adds little visual features like a timer when you hook someone, icons above nameplates to show what *abilities* a tee has (e.g Jetpack), and Grenade/Laser Path Prediction (Prediction Might be considered cheating)
-
 ### [S-Client](https://s-client.ru/) - Edited by Sedonya
 
 - Just a good client.
