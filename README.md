@@ -6,13 +6,13 @@
 - The Client exists because KoG did not update their servers for several months and Tater wanted cl_prediction_margin to work, over time it grew in features.
 - It has a bunch of useful features like a bindwheel, Outlines for Tiles, Player indicators and more.
 
-### [E-Client](https://github.com/qxdFox/Entity-Client)
+### [Entity Client (E-Client)](https://github.com/qxdFox/Entity-Client)
 
 - Entity Client is a client made by [qxdFox](https://github.com/qxdFox/) that is a combination of a few clients.
 - It used to be a Chillerbot-ux and T-Client combo but has received a few original features.
 - The main features are the Warlist, Chatcommands, Chatbubbles, quickactions and Cosmetics but there's a lot more.
 
-### [R-Client](https://github.com/RushieClient/RushieClient-ddnet)
+### [Rushie Client (R-Client)](https://github.com/RushieClient/RushieClient-ddnet)
 
 - Rushie Client, made by [Voix](https://github.com/1Voix1), has a bunch of features from multiple client plus some original ones
 - It has all features from TClient and some others like: Tracker, Nameplate editor, Bindwheel in spec, EdgeInfo and more
@@ -24,10 +24,10 @@
 - It's main features are the Warlist and the Chat Automation but it also offers features like Skin Stealer and Spike Tracer.
 
 ### [Kaizo Client](https://github.com/M0REKZ/kaizo-client) - Added by +KZ
-- Previously named "Kaizo Network Client", it's a client made by [+KZ](https://github.com/M0REKZ).
-- Very first versions of the client were just used as map editor for Kaizo Network maps, later it was improved to have better prediction and features for Kaizo Network based servers.
-- After Kaizo Network discontinuation, it was renamed to "Kaizo Client".
-- Today it is able to predict most Kaizo Network physics, being developed as a independent client implementing its own features like experimental Moving Tiles prediction, Faster map downloading, identify other Kaizo Client users, among others...
+- It's a client made by [+KZ](https://github.com/M0REKZ).
+- Previously named "Kaizo Network Client", after Kaizo Network discontinuation it was renamed to "Kaizo Client".
+- Very first versions of the client were just used as map editor for Kaizo Network maps (which had 2 extra game layers), later it was improved to have better prediction and features for Kaizo Network based servers.
+- Today it is able to predict most Kaizo Network physics, being developed as a independent client having features from other clients and also implementing its own like experimental Moving Tiles prediction (KOG, FoxNet and Kaizo), Faster map downloading, identify other Kaizo Client users, among others...
 > [!IMPORTANT]
 > Kaizo Client original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
 
@@ -72,3 +72,13 @@
 - FeX is a Client developed by [Faffa81](https://github.com/faffa81)
 - It has feautures from T-Client and other clients
 - Original features are a 1v1 system, Quick Actions and Warlist Infos like the friend info in the server browser
+
+### [AllTheHaxx](https://allthehaxx.github.io/)
+
+- AllTheHaxx is an old DDNet client that is no longer in Development.
+- It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bunch more.
+> [!CAUTION]
+> The use of this Client might be considered cheating, use it at your own risk.
+
+> [!IMPORTANT]
+> AllTheHaxx original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
