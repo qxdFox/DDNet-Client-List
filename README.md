@@ -1,6 +1,6 @@
 # DDNet-Client-List
 
-### [T-Client](https://github.com/sjrc6/TaterClient-ddnet) - Edited by Tater
+### [Tater Client (T-Client)](https://github.com/sjrc6/TaterClient-ddnet) - Edited by Tater
 
 - Tater Client is a Client originally made by [Tater](https://github.com/sjrc6/).
 - The Client exists because KoG did not update their servers for several months and Tater wanted cl_prediction_margin to work, over time it grew in features.
@@ -10,7 +10,7 @@
 
 - Entity Client is a client made by [qxdFox](https://github.com/qxdFox/) that is a combination of a few clients.
 - It used to be a Chillerbot-ux and T-Client combo but has received a few original features.
-- The main features are the Warlist, Chatcommands, Chatbubbles, quickactions and Cosmetics but there's a lot more.
+- It's main features are most features from T-Client alongside Chat Bubbles, Media Island, Chat scrolling and selection and lots more.
 
 ### [Rushie Client (R-Client)](https://github.com/RushieClient/RushieClient-ddnet)
 
