@@ -31,7 +31,6 @@
 > [!IMPORTANT]
 > Kaizo Client original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
 
-
 ### [BestClient](https://bestclient.fun) - Added by [Noxy](https://github.com/noxygalaxy)
 - BestClient is a client made by [RoflikBEST](https://github.com/RoflikBEST), [Noxy](https://github.com/noxygalaxy) & [sqwinixxx](https://github.com/sqwinixxx) with the goal of making it the best client.
 - This client is a fork of [TClient](https://github.com/TaterClient/TClient), which makes it even better!
@@ -40,41 +39,43 @@
 > [!IMPORTANT]
 > BestClient original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
 
+### [AMF Client](https://github.com/AlyaDDNet/AMF-Client) - Added by [alya?](https://github.com/AlyaDDNet)
+- AMF Client is a custom DDNet client developed by [alya?](https://github.com/AlyaDDNet), based on BestClient and focused on comfort, customization, performance and gameplay statistics.
+- It builds upon existing features while introducing its own systems and improvements, with a redesigned interface known as Nova Edition.
+- Its main features include the Impact System with detailed run statistics, Saves, Aleds, Clutches, Falls, Rating and MVP, alongside a customizable HUD Editor, visual customization and various quality-of-life improvements.
+- The client also offers multilingual interface support, performance-related settings and regular updates.
+> [!IMPORTANT]
+> AMF Client is based on BestClient. Check the repository and its applicable licenses for source code and redistribution terms.
+
 ### [InfClass-Client](https://github.com/infclass/infclass-client)
 - Special Client that's made for the InfClass Gamemode.
 - It has it's own prediction for their gamemode and also uses their own assets (e.g. Custom HUD, Custom skin, etc)
 
 ### [DDNet-sm64](https://github.com/headshot2017/ddnet-sm64)
-
 - DDNet-Super Mario 64 is a client that features a whole new playable character: Mario, and is made by [headshot2017](https://github.com/headshot2017).
 - Mario is fully playable, even though it's bit hard to control in 2d. The Client also features Soundtracks from SM64.
 
 ### [StA](https://github.com/StormAxs/StA-Main) - Edited by StormAx
-
 - StA is a Client made by [StormAx](https://github.com/StormAxs), and been supported by melon. It's source code is on [StormAxs](https://github.com/StormAxs) Github.
 - StA features Console Visual Customization, Tablist Customization, PlayerAssets (T-Client), a *different* version of Bindwheel and some more stuff.
 
 ### [S-Client](https://s-client.ru/) - Edited by Sedonya
-
 - Just a good client.
 - Currently in development with an unknown release date, created by [Sedonya](https://github.com/Sedonya/).
 
 ### [Cactus Client](https://cactuss.top) - Edited by Денчик
-
-- Cactus is a closed-source client originally made by [Денчик](https://github.com/handerfall) to implement a chat-command-based Warlist system. 
+- Cactus is a closed-source client originally made by [Денчик](https://github.com/handerfall) to implement a chat-command-based Warlist system.
 - The client introduces a variety of features to enhance gameplay, including tee trail, smooth animations, freeze kill and support for custom fonts.
 - Comes with T-Client features built-in and mostly used among blockers because of the easy Warlist command system.
 > [!IMPORTANT]
 > Because it's closed source, the development process lacks transparency, which can be a cause of distrust for some people. Despite that, it's still used by thousands of players.
 
 ### [FeX](https://github.com/faffa81/FeX-V2-Client)
-
 - FeX is a Client developed by [Faffa81](https://github.com/faffa81)
 - It has feautures from T-Client and other clients
 - Original features are a 1v1 system, Quick Actions and Warlist Infos like the friend info in the server browser
 
 ### [AllTheHaxx](https://allthehaxx.github.io/)
-
 - AllTheHaxx is an old DDNet client that is no longer in Development.
 - It has a bunch of Features that almost no Client today has, for example: Lua API, Built-in IRC client to chat with other client users, ingame chat translator, crypted chat and a bunch more.
 > [!CAUTION]
