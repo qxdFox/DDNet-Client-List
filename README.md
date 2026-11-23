@@ -36,8 +36,6 @@
 - This client is a fork of [TClient](https://github.com/TaterClient/TClient), which makes it even better!
 - BEST features of client are: Assets Editor, Media in Chat, Voice Chat, Components Editor & Fast Practice
 - At first, this client was closed source, but it is now open source.
-> [!IMPORTANT]
-> BestClient original code is distributed under a custom license (unlike most DDNet custom clients), check the repository for details
 
 ### [AMF Client](https://github.com/AlyaDDNet/AMF-Client) - Added by [alya?](https://github.com/AlyaDDNet)
 - AMF Client is a custom DDNet client developed by [alya?](https://github.com/AlyaDDNet), based on BestClient and focused on comfort, customization, performance and gameplay statistics.
